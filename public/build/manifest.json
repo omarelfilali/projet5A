@@ -1,0 +1,89 @@
+{
+  "node_modules/jquery-ui/dist/themes/base/images/ui-icons_444444_256x240.png": {
+    "file": "assets/ui-icons_444444_256x240.e1796279.png",
+    "src": "node_modules/jquery-ui/dist/themes/base/images/ui-icons_444444_256x240.png"
+  },
+  "node_modules/jquery-ui/dist/themes/base/images/ui-icons_555555_256x240.png": {
+    "file": "assets/ui-icons_555555_256x240.ef37e972.png",
+    "src": "node_modules/jquery-ui/dist/themes/base/images/ui-icons_555555_256x240.png"
+  },
+  "node_modules/jquery-ui/dist/themes/base/images/ui-icons_ffffff_256x240.png": {
+    "file": "assets/ui-icons_ffffff_256x240.9d2cc7bc.png",
+    "src": "node_modules/jquery-ui/dist/themes/base/images/ui-icons_ffffff_256x240.png"
+  },
+  "node_modules/jquery-ui/dist/themes/base/images/ui-icons_777620_256x240.png": {
+    "file": "assets/ui-icons_777620_256x240.688e72e9.png",
+    "src": "node_modules/jquery-ui/dist/themes/base/images/ui-icons_777620_256x240.png"
+  },
+  "node_modules/jquery-ui/dist/themes/base/images/ui-icons_cc0000_256x240.png": {
+    "file": "assets/ui-icons_cc0000_256x240.d7caf34c.png",
+    "src": "node_modules/jquery-ui/dist/themes/base/images/ui-icons_cc0000_256x240.png"
+  },
+  "node_modules/jquery-ui/dist/themes/base/images/ui-icons_777777_256x240.png": {
+    "file": "assets/ui-icons_777777_256x240.87e23c6d.png",
+    "src": "node_modules/jquery-ui/dist/themes/base/images/ui-icons_777777_256x240.png"
+  },
+  "public/images/background_propos.png": {
+    "file": "assets/background_propos.26db6701.png",
+    "src": "public/images/background_propos.png"
+  },
+  "public/images/icons/check-mark.png": {
+    "file": "assets/check-mark.3b79975c.png",
+    "src": "public/images/icons/check-mark.png"
+  },
+  "public/images/icons/stopwatch.png": {
+    "file": "assets/stopwatch.c265e40e.png",
+    "src": "public/images/icons/stopwatch.png"
+  },
+  "public/images/icons/red-cross.png": {
+    "file": "assets/red-cross.df93a6f3.png",
+    "src": "public/images/icons/red-cross.png"
+  },
+  "public/images/login-bg1.png": {
+    "file": "assets/login-bg1.809609b3.png",
+    "src": "public/images/login-bg1.png"
+  },
+  "public/images/inscription-bg1.png": {
+    "file": "assets/inscription-bg1.b65df7ba.png",
+    "src": "public/images/inscription-bg1.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.aa3cb624.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_avatarscolors.425f188d.js"
+    ]
+  },
+  "resources/js/admin.js": {
+    "file": "assets/admin.16ffe10a.js",
+    "src": "resources/js/admin.js",
+    "isEntry": true,
+    "imports": [
+      "_avatarscolors.425f188d.js"
+    ]
+  },
+  "resources/js/module_materiel.js": {
+    "file": "assets/module_materiel.3ffac49f.js",
+    "src": "resources/js/module_materiel.js",
+    "isEntry": true
+  },
+  "_avatarscolors.425f188d.js": {
+    "file": "assets/avatarscolors.425f188d.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.86f0bce4.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/module_materiel.css": {
+    "file": "assets/module_materiel.08b76437.css",
+    "src": "resources/css/module_materiel.css",
+    "isEntry": true
+  },
+  "resources/css/admin.css": {
+    "file": "assets/admin.d7ff740c.css",
+    "src": "resources/css/admin.css",
+    "isEntry": true
+  }
+}

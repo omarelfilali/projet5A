@@ -1,0 +1,8 @@
+import './scripts/materiel/colorpicker/bootstrap-colorpicker'
+import './scripts/materiel/datepicker/bootstrap-datepicker'
+import './scripts/materiel/daterangepicker/daterangepicker'
+import './scripts/materiel/fastclick/fastclick'
+import './scripts/materiel/iCheck/icheck'
+import './scripts/materiel/input-mask/jquery.inputmask'
+import './scripts/materiel/slimScroll/jquery.slimscroll'
+import './scripts/materiel/timepicker/bootstrap-timepicker'

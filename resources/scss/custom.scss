@@ -1,0 +1,87 @@
+/* Bootstrap */
+$blue: #3779e4;
+$indigo: #6610f2;
+$purple: #6f42c1;
+$pink: #d63384;
+$red: #ff595e;
+$orange: #ED7D3A;
+$yellow: #ffca3a;
+$green: #2FBF71;
+$teal: #20c997;
+$cyan: #479dd3;
+
+$white: #fff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black: #000;
+
+
+$primary: $blue;
+$secondary: $gray-600;
+$success: $green;
+$info: $cyan;
+$warning: $yellow;
+$danger: $red;
+$light: $gray-100;
+$dark: $gray-900;
+
+
+
+$theme-colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "success": $success,
+    "info": $info,
+    "warning": $warning,
+    "danger": $danger,
+    "light": $light,
+    "dark": $dark,
+    "ensim": #2fb0d4,
+);
+
+$min-contrast-ratio:   1.5 !default;
+
+.form-check-input{
+    cursor: pointer;
+}
+
+/* Jquery UI */
+
+.slider-range{
+    background: rgba(0, 0, 0, 0.15);
+    border-radius: 300px;
+    height: 7px;
+    border: none !important;
+}
+
+.ui-slider-range{
+    background: #95c0ff !important;
+}
+
+.ui-slider-handle{
+    width: 1em !important;
+    height: 1em !important;
+    border-radius: 100%;
+    border: none !important;
+    background: #0d6efd !important;
+}
+
+.ui-slider-handle:focus{
+    background: #074db6 !important;
+    border: none !important;
+    outline: 0 !important;
+}
+
+.dropzone{
+    border: 1px solid #ced4da !important;
+}
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import "/node_modules/jquery-ui/dist/themes/base/jquery-ui.min.css";

@@ -1,0 +1,20 @@
+// Plugins
+import './plugins/jquery';
+import './plugins/jquery-ui';
+import './plugins/popper';
+import './plugins/bootstrap';
+import './plugins/select2';
+import './plugins/sweetalert2';
+import './plugins/jquery-validation';
+import './plugins/flatpickr';
+import './plugins/datatables';
+import './plugins/fancybox';
+import './plugins/chart';
+// import './plugins/list';
+// import '@fortawesome/fontawesome-free/js/all.js';
+
+// Scripts fait maison
+import './scripts/validation';
+import './scripts/projets/projets';
+import './scripts/projets/projet_add';
+import './scripts/avatarscolors';

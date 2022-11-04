@@ -1,0 +1,65 @@
+{
+  "name": "myensim",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"><a href=\"https://laravel.com\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg\" width=\"400\"></a></p>",
+  "main": "vite.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.11.6",
+    "axios": "^0.27",
+    "bootstrap": "^5.2.1",
+    "jquery": "^3.6.1",
+    "laravel-vite-plugin": "^0.6.0",
+    "lodash": "^4.17.19",
+    "postcss": "^8.1.14",
+    "vite": "^3.1.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "sass-dev": "sass --watch --update --style=expanded resources/scss:resources/css",
+    "sass-prod": "sass --no-source-map --style=compressed resources/scss:resources/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://e-gitlab.univ-lemans.fr/oguiller/myensim-surprise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "@fancyapps/ui": "^4.0.31",
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "admin-lte": "^3.2.0",
+    "chart.js": "^3.9.1",
+    "datatables.net-autofill-bs5": "^2.4.0",
+    "datatables.net-bs5": "^1.12.1",
+    "datatables.net-buttons-bs5": "^2.2.3",
+    "datatables.net-colreorder-bs5": "^1.5.6",
+    "datatables.net-datetime": "^1.1.2",
+    "datatables.net-fixedcolumns-bs5": "^4.1.0",
+    "datatables.net-fixedheader-bs5": "^3.2.4",
+    "datatables.net-keytable-bs5": "^2.7.0",
+    "datatables.net-responsive-bs5": "^2.3.0",
+    "datatables.net-rowgroup-bs5": "^1.2.0",
+    "datatables.net-rowreorder-bs5": "^1.2.8",
+    "datatables.net-scroller-bs5": "^2.0.7",
+    "datatables.net-searchbuilder-bs5": "^1.3.4",
+    "datatables.net-searchpanes-bs5": "^2.0.2",
+    "datatables.net-select-bs5": "^1.4.0",
+    "datatables.net-staterestore-bs5": "^1.1.1",
+    "dropzone": "^6.0.0-beta.2",
+    "flatpickr": "^4.6.13",
+    "jquery-ui": "^1.13.2",
+    "jsdom": "^20.0.0",
+    "jszip": "^3.10.1",
+    "list.js": "^2.3.1",
+    "pdfmake": "^0.2.5",
+    "qrcode": "^1.5.1",
+    "sass": "^1.54.9",
+    "select2-bootstrap-5-theme": "^1.3.0",
+    "sweetalert2": "^11.4.32"
+  }
+}
